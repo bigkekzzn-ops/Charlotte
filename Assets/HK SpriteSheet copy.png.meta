@@ -1,0 +1,3610 @@
+fileFormatVersion: 2
+guid: 089fb73ea3f94409b811477d48483f96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5283822158637555818
+    second: HK SpriteSheet copy_0
+  - first:
+      213: -6648779584022597044
+    second: HK SpriteSheet copy_1
+  - first:
+      213: 7219290003790863250
+    second: HK SpriteSheet copy_2
+  - first:
+      213: -1605282068740849344
+    second: HK SpriteSheet copy_3
+  - first:
+      213: -6476671859538893382
+    second: HK SpriteSheet copy_4
+  - first:
+      213: -6584708938828934143
+    second: HK SpriteSheet copy_5
+  - first:
+      213: -3410799967673945946
+    second: HK SpriteSheet copy_6
+  - first:
+      213: 4966352465008272786
+    second: HK SpriteSheet copy_7
+  - first:
+      213: -7433345476708879879
+    second: HK SpriteSheet copy_8
+  - first:
+      213: -35169934154716943
+    second: HK SpriteSheet copy_9
+  - first:
+      213: 8496142098939358189
+    second: HK SpriteSheet copy_10
+  - first:
+      213: -7738679489988418577
+    second: HK SpriteSheet copy_11
+  - first:
+      213: 3345303445756432349
+    second: HK SpriteSheet copy_12
+  - first:
+      213: 1679187145189214863
+    second: HK SpriteSheet copy_13
+  - first:
+      213: -8043329267754341564
+    second: HK SpriteSheet copy_14
+  - first:
+      213: -1791304706859576647
+    second: HK SpriteSheet copy_15
+  - first:
+      213: -2919464504567779229
+    second: HK SpriteSheet copy_16
+  - first:
+      213: -7081417467902391304
+    second: HK SpriteSheet copy_17
+  - first:
+      213: 5694687663262595199
+    second: HK SpriteSheet copy_18
+  - first:
+      213: 2203458815663050523
+    second: HK SpriteSheet copy_19
+  - first:
+      213: -8883123664253408956
+    second: HK SpriteSheet copy_20
+  - first:
+      213: 3948500618894872446
+    second: HK SpriteSheet copy_21
+  - first:
+      213: 8443092720670694074
+    second: HK SpriteSheet copy_22
+  - first:
+      213: 6740275328110274087
+    second: HK SpriteSheet copy_23
+  - first:
+      213: -2147770431993391820
+    second: HK SpriteSheet copy_24
+  - first:
+      213: -7289838484194159608
+    second: HK SpriteSheet copy_25
+  - first:
+      213: -459464511510482113
+    second: HK SpriteSheet copy_26
+  - first:
+      213: -1354741814053379188
+    second: HK SpriteSheet copy_27
+  - first:
+      213: -6987359363142862671
+    second: HK SpriteSheet copy_28
+  - first:
+      213: -1757721142821552135
+    second: HK SpriteSheet copy_29
+  - first:
+      213: -427337161815272721
+    second: HK SpriteSheet copy_30
+  - first:
+      213: 5916918246735125359
+    second: HK SpriteSheet copy_31
+  - first:
+      213: -6657641739608257067
+    second: HK SpriteSheet copy_32
+  - first:
+      213: -3968860409727311113
+    second: HK SpriteSheet copy_33
+  - first:
+      213: 8448111020049794761
+    second: HK SpriteSheet copy_34
+  - first:
+      213: -3854747571653660951
+    second: HK SpriteSheet copy_35
+  - first:
+      213: 3059401049997753436
+    second: HK SpriteSheet copy_36
+  - first:
+      213: 5152268188161678087
+    second: HK SpriteSheet copy_37
+  - first:
+      213: -7463602541505868233
+    second: HK SpriteSheet copy_38
+  - first:
+      213: 7073405431675170933
+    second: HK SpriteSheet copy_39
+  - first:
+      213: 528799605232959623
+    second: HK SpriteSheet copy_40
+  - first:
+      213: 6636163901867781177
+    second: HK SpriteSheet copy_41
+  - first:
+      213: 6418968388370512029
+    second: HK SpriteSheet copy_42
+  - first:
+      213: 4794438461332940090
+    second: HK SpriteSheet copy_43
+  - first:
+      213: -5899618491594347016
+    second: HK SpriteSheet copy_44
+  - first:
+      213: 6211502032748663088
+    second: HK SpriteSheet copy_45
+  - first:
+      213: 2932869862781923736
+    second: HK SpriteSheet copy_46
+  - first:
+      213: -5319119291720399183
+    second: HK SpriteSheet copy_47
+  - first:
+      213: -7259691144914086499
+    second: HK SpriteSheet copy_48
+  - first:
+      213: 4031308296072884512
+    second: HK SpriteSheet copy_49
+  - first:
+      213: -5909700816836368642
+    second: HK SpriteSheet copy_50
+  - first:
+      213: -8053202205693324729
+    second: HK SpriteSheet copy_51
+  - first:
+      213: 6735183467706409051
+    second: HK SpriteSheet copy_52
+  - first:
+      213: -1534567486166831475
+    second: HK SpriteSheet copy_53
+  - first:
+      213: -252104768088309246
+    second: HK SpriteSheet copy_54
+  - first:
+      213: -7498765381952681884
+    second: HK SpriteSheet copy_55
+  - first:
+      213: 242992919628982153
+    second: HK SpriteSheet copy_56
+  - first:
+      213: -5843551768839266455
+    second: HK SpriteSheet copy_57
+  - first:
+      213: -232003559009669730
+    second: HK SpriteSheet copy_58
+  - first:
+      213: 9002460081876038015
+    second: HK SpriteSheet copy_59
+  - first:
+      213: 3403292463021448202
+    second: HK SpriteSheet copy_60
+  - first:
+      213: 7512207912267530012
+    second: HK SpriteSheet copy_61
+  - first:
+      213: 1804298877689844318
+    second: HK SpriteSheet copy_62
+  - first:
+      213: 2740056148865111327
+    second: HK SpriteSheet copy_63
+  - first:
+      213: -8449703113356720735
+    second: HK SpriteSheet copy_64
+  - first:
+      213: -6751606539307686257
+    second: HK SpriteSheet copy_65
+  - first:
+      213: 1368085209900231819
+    second: HK SpriteSheet copy_66
+  - first:
+      213: 4031947006502449077
+    second: HK SpriteSheet copy_67
+  - first:
+      213: -6741092098127691472
+    second: HK SpriteSheet copy_68
+  - first:
+      213: 2783768757652324356
+    second: HK SpriteSheet copy_69
+  - first:
+      213: -1150979925257743827
+    second: HK SpriteSheet copy_70
+  - first:
+      213: -8969966310399140983
+    second: HK SpriteSheet copy_71
+  - first:
+      213: -755294530632687049
+    second: HK SpriteSheet copy_72
+  - first:
+      213: -4329587299758164101
+    second: HK SpriteSheet copy_73
+  - first:
+      213: -8385586798030758755
+    second: HK SpriteSheet copy_74
+  - first:
+      213: -5576202080382608239
+    second: HK SpriteSheet copy_75
+  - first:
+      213: -1987046731367969641
+    second: HK SpriteSheet copy_76
+  - first:
+      213: -2763291302803260217
+    second: HK SpriteSheet copy_77
+  - first:
+      213: 6126916363270057764
+    second: HK SpriteSheet copy_78
+  - first:
+      213: 8421606579967812951
+    second: HK SpriteSheet copy_79
+  - first:
+      213: -2995943461380036506
+    second: HK SpriteSheet copy_80
+  - first:
+      213: -4127469819056599801
+    second: HK SpriteSheet copy_81
+  - first:
+      213: 2867766564441801698
+    second: HK SpriteSheet copy_82
+  - first:
+      213: 6624205524622268415
+    second: HK SpriteSheet copy_83
+  - first:
+      213: 5864574919574823907
+    second: HK SpriteSheet copy_84
+  - first:
+      213: -452399481855790001
+    second: HK SpriteSheet copy_85
+  - first:
+      213: -1599356375643351863
+    second: HK SpriteSheet copy_86
+  - first:
+      213: -3580687417909893775
+    second: HK SpriteSheet copy_87
+  - first:
+      213: 2883907952949778577
+    second: HK SpriteSheet copy_88
+  - first:
+      213: -3614451184451479362
+    second: HK SpriteSheet copy_89
+  - first:
+      213: -8146152890880972021
+    second: HK SpriteSheet copy_90
+  - first:
+      213: 7917193021241445525
+    second: HK SpriteSheet copy_91
+  - first:
+      213: 5847925314979532072
+    second: HK SpriteSheet copy_92
+  - first:
+      213: -211844213531340396
+    second: HK SpriteSheet copy_93
+  - first:
+      213: 628367367132340356
+    second: HK SpriteSheet copy_94
+  - first:
+      213: 8386793045844160095
+    second: HK SpriteSheet copy_95
+  - first:
+      213: 3686239758272830387
+    second: HK SpriteSheet copy_96
+  - first:
+      213: 8966395539990681093
+    second: HK SpriteSheet copy_97
+  - first:
+      213: 5451414193092746183
+    second: HK SpriteSheet copy_98
+  - first:
+      213: -9135816336372718189
+    second: HK SpriteSheet copy_99
+  - first:
+      213: 450684213794404228
+    second: HK SpriteSheet copy_100
+  - first:
+      213: -2932967468777012412
+    second: HK SpriteSheet copy_101
+  - first:
+      213: -8376521117634635920
+    second: HK SpriteSheet copy_102
+  - first:
+      213: 5240870922759774658
+    second: HK SpriteSheet copy_103
+  - first:
+      213: -3272699928291203302
+    second: HK SpriteSheet copy_104
+  - first:
+      213: 1596224842582330218
+    second: HK SpriteSheet copy_105
+  - first:
+      213: 3740676482076568038
+    second: HK SpriteSheet copy_106
+  - first:
+      213: -8052505679470216583
+    second: HK SpriteSheet copy_107
+  - first:
+      213: 4651236981557098751
+    second: HK SpriteSheet copy_108
+  - first:
+      213: 7760995560334457366
+    second: HK SpriteSheet copy_109
+  - first:
+      213: 3694320839570573525
+    second: HK SpriteSheet copy_110
+  - first:
+      213: 7599707889015786787
+    second: HK SpriteSheet copy_111
+  - first:
+      213: -3638527349631323385
+    second: HK SpriteSheet copy_112
+  - first:
+      213: 5726259282348818120
+    second: HK SpriteSheet copy_113
+  - first:
+      213: -1879686344769646426
+    second: HK SpriteSheet copy_114
+  - first:
+      213: -1950655497492154595
+    second: HK SpriteSheet copy_115
+  - first:
+      213: 7087468545853367177
+    second: HK SpriteSheet copy_116
+  - first:
+      213: -3317949570160310733
+    second: HK SpriteSheet copy_117
+  - first:
+      213: -4141485591711108438
+    second: HK SpriteSheet copy_118
+  - first:
+      213: 9000302590973338745
+    second: HK SpriteSheet copy_119
+  - first:
+      213: 2309723156271167797
+    second: HK SpriteSheet copy_120
+  - first:
+      213: -694760847002315860
+    second: HK SpriteSheet copy_121
+  - first:
+      213: 8370677798388686147
+    second: HK SpriteSheet copy_122
+  - first:
+      213: 9118544378632027789
+    second: HK SpriteSheet copy_123
+  - first:
+      213: 6021200583028419243
+    second: HK SpriteSheet copy_124
+  - first:
+      213: -7971346009551111477
+    second: HK SpriteSheet copy_125
+  - first:
+      213: -6456194651955980238
+    second: HK SpriteSheet copy_126
+  - first:
+      213: 7410516214956538865
+    second: HK SpriteSheet copy_127
+  - first:
+      213: 5673914829991906003
+    second: HK SpriteSheet copy_128
+  - first:
+      213: 7375053546273464815
+    second: HK SpriteSheet copy_129
+  - first:
+      213: -4707424677105067673
+    second: HK SpriteSheet copy_130
+  - first:
+      213: -6387987793454385598
+    second: HK SpriteSheet copy_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f121addb71ca6b0800000000000000
+      internalID: -5283822158637555818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42b670f13acab3a0800000000000000
+      internalID: -6648779584022597044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b9b7e4202103460800000000000000
+      internalID: 7219290003790863250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041c560b674e8b9e0800000000000000
+      internalID: -1605282068740849344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab56a65324d3e16a0800000000000000
+      internalID: -6476671859538893382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10413cf7b1a6e94a0800000000000000
+      internalID: -6584708938828934143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a071e620876aa0d0800000000000000
+      internalID: -3410799967673945946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295243a01470ce440800000000000000
+      internalID: 4966352465008272786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1b2082ca377d890800000000000000
+      internalID: -7433345476708879879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f82fe7912d038ff0800000000000000
+      internalID: -35169934154716943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 944
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deba588793c58e570800000000000000
+      internalID: 8496142098939358189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3a3a05100ba9490800000000000000
+      internalID: -7738679489988418577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfc33e72c7ec6e20800000000000000
+      internalID: 3345303445756432349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ac764dfcbad4710800000000000000
+      internalID: 1679187145189214863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44beff775aa506090800000000000000
+      internalID: -8043329267754341564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2562f1cd10427e0800000000000000
+      internalID: -1791304706859576647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36030e6408afb77d0800000000000000
+      internalID: -2919464504567779229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb8e67f450c9bd90800000000000000
+      internalID: -7081417467902391304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78f09b0248970f40800000000000000
+      internalID: 5694687663262595199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f8cc05e12449e10800000000000000
+      internalID: 2203458815663050523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4492f48971ec8b480800000000000000
+      internalID: -8883123664253408956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f83a09464ebc630800000000000000
+      internalID: 3948500618894872446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_22
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 864
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba53459814eb2570800000000000000
+      internalID: 8443092720670694074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726a75c03b44a8d50800000000000000
+      internalID: 6740275328110274087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43552f5eb269132e0800000000000000
+      internalID: -2147770431993391820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80492a7958a45da90800000000000000
+      internalID: -7289838484194159608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33f48c0677af99f0800000000000000
+      internalID: -459464511510482113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83eaf27f7df23de0800000000000000
+      internalID: -1354741814053379188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8bed90ea9e70f90800000000000000
+      internalID: -6987359363142862671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff7de3fee15b97e0800000000000000
+      internalID: -1757721142821552135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_30
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe25dae8d1bc11af0800000000000000
+      internalID: -427337161815272721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_31
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b9ca5dbcd1d1250800000000000000
+      internalID: 5916918246735125359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_32
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd06dc8c1e4b93a0800000000000000
+      internalID: -6657641739608257067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_33
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 784
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2a71b3c76cbe8c0800000000000000
+      internalID: -3968860409727311113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c681257638bd3570800000000000000
+      internalID: 8448111020049794761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eea8c4c18f218ac0800000000000000
+      internalID: -3854747571653660951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cb29aab0d257a20800000000000000
+      internalID: 3059401049997753436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b1ce68e98808740800000000000000
+      internalID: 5152268188161678087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e07d84805fb6890800000000000000
+      internalID: -7463602541505868233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_39
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570315b73c8c92260800000000000000
+      internalID: 7073405431675170933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_40
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7800743707ca65700800000000000000
+      internalID: 528799605232959623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_41
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c691aa8e3681c50800000000000000
+      internalID: 6636163901867781177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9839457db1c41950800000000000000
+      internalID: 6418968388370512029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a356839e064498240800000000000000
+      internalID: 4794438461332940090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd613a4d38502ea0800000000000000
+      internalID: -5899618491594347016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_45
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031d9975030b33650800000000000000
+      internalID: 6211502032748663088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891b097e995a3b820800000000000000
+      internalID: 2932869862781923736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_47
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b60413af21be26b0800000000000000
+      internalID: -5319119291720399183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95d8500e55604b90800000000000000
+      internalID: -7259691144914086499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0217287598512f730800000000000000
+      internalID: 4031308296072884512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6e1a30b668cfda0800000000000000
+      internalID: -5909700816836368642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_51
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742d149f2474d3090800000000000000
+      internalID: -8053202205693324729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5069b9edad287d50800000000000000
+      internalID: 6735183467706409051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_53
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e6927700f14bae0800000000000000
+      internalID: -1534567486166831475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2020ae39c08508cf0800000000000000
+      internalID: -252104768088309246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_55
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468c6b28d980fe790800000000000000
+      internalID: -7498765381952681884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_56
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 624
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987ab61e5c84f5300800000000000000
+      internalID: 242992919628982153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fdabf60a887eea0800000000000000
+      internalID: -5843551768839266455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d2a960ef1c7ccf0800000000000000
+      internalID: -232003559009669730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71fad45fb92fec70800000000000000
+      internalID: 9002460081876038015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c5825b67cea3f20800000000000000
+      internalID: 3403292463021448202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fb5997b49b04860800000000000000
+      internalID: 7512207912267530012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_62
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52d65905482a0910800000000000000
+      internalID: 1804298877689844318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15dab9cc82a60620800000000000000
+      internalID: 2740056148865111327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_64
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a54cde69cf9cba80800000000000000
+      internalID: -8449703113356720735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f866c51cf997d42a0800000000000000
+      internalID: -6751606539307686257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_66
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ca19eff3a6cf210800000000000000
+      internalID: 1368085209900231819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_67
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf27c3b07a54f730800000000000000
+      internalID: 4031947006502449077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_68
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 544
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03108ecd374d272a0800000000000000
+      internalID: -6741092098127691472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40082b0afeee1a620800000000000000
+      internalID: 2783768757652324356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_70
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22186b2bd5e600f0800000000000000
+      internalID: -1150979925257743827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b10756a27448380800000000000000
+      internalID: -8969966310399140983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_72
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732e7d840a7a485f0800000000000000
+      internalID: -755294530632687049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b773fdd3a473ae3c0800000000000000
+      internalID: -4329587299758164101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cdb266c3960ab80800000000000000
+      internalID: -8385586798030758755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_75
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c100b70c95d92b0800000000000000
+      internalID: -5576202080382608239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_76
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c06b096879c64e0800000000000000
+      internalID: -1987046731367969641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_77
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc3c7d5331d6a9d0800000000000000
+      internalID: -2763291302803260217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_78
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f6d3978fd270550800000000000000
+      internalID: 6126916363270057764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_79
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755e21d909e8fd470800000000000000
+      internalID: 8421606579967812951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_80
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 464
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668e9498b454c66d0800000000000000
+      internalID: -2995943461380036506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d4cfd511848b6c0800000000000000
+      internalID: -4127469819056599801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_82
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3cb4c0f7a5cc720800000000000000
+      internalID: 2867766564441801698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_83
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff75a4ef3d7edeb50800000000000000
+      internalID: 6624205524622268415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_84
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e32ce741d7236150800000000000000
+      internalID: 5864574919574823907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f443a637111c8b9f0800000000000000
+      internalID: -452399481855790001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_86
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 384
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c49580a9d1fdc9e0800000000000000
+      internalID: -1599356375643351863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_87
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17525c3c3c7de4ec0800000000000000
+      internalID: -3580687417909893775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_88
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 384
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198de7ce003b50820800000000000000
+      internalID: 2883907952949778577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_89
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb897c44cc3e6ddc0800000000000000
+      internalID: -3614451184451479362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_90
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ba40d1b1d03fe80800000000000000
+      internalID: -8146152890880972021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c4c411b158fdd60800000000000000
+      internalID: 7917193021241445525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_92
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d8e502711082150800000000000000
+      internalID: 5847925314979532072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 304
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4911eb86fc06f0df0800000000000000
+      internalID: -211844213531340396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_94
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 304
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480ee5a8ac868b800800000000000000
+      internalID: 628367367132340356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_95
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 304
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ee14e07dfd36470800000000000000
+      internalID: 8386793045844160095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_96
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 304
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb16c49787282330800000000000000
+      internalID: 3686239758272830387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_97
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 304
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5069ac4dc390f6c70800000000000000
+      internalID: 8966395539990681093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_98
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 304
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbd0d6635057ab40800000000000000
+      internalID: 5451414193092746183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_99
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 304
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3952b49127f073180800000000000000
+      internalID: -9135816336372718189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487771597e6214600800000000000000
+      internalID: 450684213794404228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305cd60a10c47d0800000000000000
+      internalID: -2932967468777012412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_102
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07754d99c6e90cb80800000000000000
+      internalID: -8376521117634635920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_103
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c125c046505bb840800000000000000
+      internalID: 5240870922759774658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_104
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17a1c531c80592d0800000000000000
+      internalID: -3272699928291203302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_105
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b06c3890ee62610800000000000000
+      internalID: 1596224842582330218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_106
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9e4d5017d89e330800000000000000
+      internalID: 3740676482076568038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_107
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97abc5f9fb0cf3090800000000000000
+      internalID: -8052505679470216583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_108
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8fed334638c8040800000000000000
+      internalID: 4651236981557098751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_109
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a7e15b75894bb60800000000000000
+      internalID: 7760995560334457366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_110
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d84de0fa3dd44330800000000000000
+      internalID: 3694320839570573525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_111
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 224
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d05816f06977960800000000000000
+      internalID: 7599707889015786787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7037eab37aa518dc0800000000000000
+      internalID: -3638527349631323385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_113
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce3f207a72c77f40800000000000000
+      internalID: 5726259282348818120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a05ada7a330ae5e0800000000000000
+      internalID: -1879686344769646426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_115
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1731d8f821ede4e0800000000000000
+      internalID: -1950655497492154595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9832858671fbb5260800000000000000
+      internalID: 7087468545853367177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_117
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3364fe7f17644f1d0800000000000000
+      internalID: -3317949570160310733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_118
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa239affbcc7686c0800000000000000
+      internalID: -4141485591711108438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_119
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9746ef5558f77ec70800000000000000
+      internalID: 9000302590973338745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_120
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539790329f8cd0020800000000000000
+      internalID: 2309723156271167797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_121
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3d39ec0b6bb56f0800000000000000
+      internalID: -694760847002315860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_122
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dd43e9b1f9a2470800000000000000
+      internalID: 8370677798388686147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_123
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 144
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e3ffcdcc39b8e70800000000000000
+      internalID: 9118544378632027789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baaa8c0570a9f8350800000000000000
+      internalID: 6021200583028419243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca7afec907106190800000000000000
+      internalID: -7971346009551111477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_126
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2381361ab2df666a0800000000000000
+      internalID: -6456194651955980238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_127
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbb1c22c3177d660800000000000000
+      internalID: 7410516214956538865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_128
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da0d77e97bcdbe40800000000000000
+      internalID: 5673914829991906003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_129
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe16d192024795660800000000000000
+      internalID: 7375053546273464815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_130
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7699e3a723edbaeb0800000000000000
+      internalID: -4707424677105067673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_131
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246be9562fe4957a0800000000000000
+      internalID: -6387987793454385598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_132
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb30f4651d5245e4ba09adaacee22ae
+      internalID: 624750254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HK SpriteSheet copy_133
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 64
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cb82da98b0240629cb94f6c1dd670e
+      internalID: -1348652847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":80.0,"y":80.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      HK SpriteSheet copy_0: -5283822158637555818
+      HK SpriteSheet copy_1: -6648779584022597044
+      HK SpriteSheet copy_10: 8496142098939358189
+      HK SpriteSheet copy_100: 450684213794404228
+      HK SpriteSheet copy_101: -2932967468777012412
+      HK SpriteSheet copy_102: -8376521117634635920
+      HK SpriteSheet copy_103: 5240870922759774658
+      HK SpriteSheet copy_104: -3272699928291203302
+      HK SpriteSheet copy_105: 1596224842582330218
+      HK SpriteSheet copy_106: 3740676482076568038
+      HK SpriteSheet copy_107: -8052505679470216583
+      HK SpriteSheet copy_108: 4651236981557098751
+      HK SpriteSheet copy_109: 7760995560334457366
+      HK SpriteSheet copy_11: -7738679489988418577
+      HK SpriteSheet copy_110: 3694320839570573525
+      HK SpriteSheet copy_111: 7599707889015786787
+      HK SpriteSheet copy_112: -3638527349631323385
+      HK SpriteSheet copy_113: 5726259282348818120
+      HK SpriteSheet copy_114: -1879686344769646426
+      HK SpriteSheet copy_115: -1950655497492154595
+      HK SpriteSheet copy_116: 7087468545853367177
+      HK SpriteSheet copy_117: -3317949570160310733
+      HK SpriteSheet copy_118: -4141485591711108438
+      HK SpriteSheet copy_119: 9000302590973338745
+      HK SpriteSheet copy_12: 3345303445756432349
+      HK SpriteSheet copy_120: 2309723156271167797
+      HK SpriteSheet copy_121: -694760847002315860
+      HK SpriteSheet copy_122: 8370677798388686147
+      HK SpriteSheet copy_123: 9118544378632027789
+      HK SpriteSheet copy_124: 6021200583028419243
+      HK SpriteSheet copy_125: -7971346009551111477
+      HK SpriteSheet copy_126: -6456194651955980238
+      HK SpriteSheet copy_127: 7410516214956538865
+      HK SpriteSheet copy_128: 5673914829991906003
+      HK SpriteSheet copy_129: 7375053546273464815
+      HK SpriteSheet copy_13: 1679187145189214863
+      HK SpriteSheet copy_130: -4707424677105067673
+      HK SpriteSheet copy_131: -6387987793454385598
+      HK SpriteSheet copy_132: 624750254
+      HK SpriteSheet copy_133: -1348652847
+      HK SpriteSheet copy_14: -8043329267754341564
+      HK SpriteSheet copy_15: -1791304706859576647
+      HK SpriteSheet copy_16: -2919464504567779229
+      HK SpriteSheet copy_17: -7081417467902391304
+      HK SpriteSheet copy_18: 5694687663262595199
+      HK SpriteSheet copy_19: 2203458815663050523
+      HK SpriteSheet copy_2: 7219290003790863250
+      HK SpriteSheet copy_20: -8883123664253408956
+      HK SpriteSheet copy_21: 3948500618894872446
+      HK SpriteSheet copy_22: 8443092720670694074
+      HK SpriteSheet copy_23: 6740275328110274087
+      HK SpriteSheet copy_24: -2147770431993391820
+      HK SpriteSheet copy_25: -7289838484194159608
+      HK SpriteSheet copy_26: -459464511510482113
+      HK SpriteSheet copy_27: -1354741814053379188
+      HK SpriteSheet copy_28: -6987359363142862671
+      HK SpriteSheet copy_29: -1757721142821552135
+      HK SpriteSheet copy_3: -1605282068740849344
+      HK SpriteSheet copy_30: -427337161815272721
+      HK SpriteSheet copy_31: 5916918246735125359
+      HK SpriteSheet copy_32: -6657641739608257067
+      HK SpriteSheet copy_33: -3968860409727311113
+      HK SpriteSheet copy_34: 8448111020049794761
+      HK SpriteSheet copy_35: -3854747571653660951
+      HK SpriteSheet copy_36: 3059401049997753436
+      HK SpriteSheet copy_37: 5152268188161678087
+      HK SpriteSheet copy_38: -7463602541505868233
+      HK SpriteSheet copy_39: 7073405431675170933
+      HK SpriteSheet copy_4: -6476671859538893382
+      HK SpriteSheet copy_40: 528799605232959623
+      HK SpriteSheet copy_41: 6636163901867781177
+      HK SpriteSheet copy_42: 6418968388370512029
+      HK SpriteSheet copy_43: 4794438461332940090
+      HK SpriteSheet copy_44: -5899618491594347016
+      HK SpriteSheet copy_45: 6211502032748663088
+      HK SpriteSheet copy_46: 2932869862781923736
+      HK SpriteSheet copy_47: -5319119291720399183
+      HK SpriteSheet copy_48: -7259691144914086499
+      HK SpriteSheet copy_49: 4031308296072884512
+      HK SpriteSheet copy_5: -6584708938828934143
+      HK SpriteSheet copy_50: -5909700816836368642
+      HK SpriteSheet copy_51: -8053202205693324729
+      HK SpriteSheet copy_52: 6735183467706409051
+      HK SpriteSheet copy_53: -1534567486166831475
+      HK SpriteSheet copy_54: -252104768088309246
+      HK SpriteSheet copy_55: -7498765381952681884
+      HK SpriteSheet copy_56: 242992919628982153
+      HK SpriteSheet copy_57: -5843551768839266455
+      HK SpriteSheet copy_58: -232003559009669730
+      HK SpriteSheet copy_59: 9002460081876038015
+      HK SpriteSheet copy_6: -3410799967673945946
+      HK SpriteSheet copy_60: 3403292463021448202
+      HK SpriteSheet copy_61: 7512207912267530012
+      HK SpriteSheet copy_62: 1804298877689844318
+      HK SpriteSheet copy_63: 2740056148865111327
+      HK SpriteSheet copy_64: -8449703113356720735
+      HK SpriteSheet copy_65: -6751606539307686257
+      HK SpriteSheet copy_66: 1368085209900231819
+      HK SpriteSheet copy_67: 4031947006502449077
+      HK SpriteSheet copy_68: -6741092098127691472
+      HK SpriteSheet copy_69: 2783768757652324356
+      HK SpriteSheet copy_7: 4966352465008272786
+      HK SpriteSheet copy_70: -1150979925257743827
+      HK SpriteSheet copy_71: -8969966310399140983
+      HK SpriteSheet copy_72: -755294530632687049
+      HK SpriteSheet copy_73: -4329587299758164101
+      HK SpriteSheet copy_74: -8385586798030758755
+      HK SpriteSheet copy_75: -5576202080382608239
+      HK SpriteSheet copy_76: -1987046731367969641
+      HK SpriteSheet copy_77: -2763291302803260217
+      HK SpriteSheet copy_78: 6126916363270057764
+      HK SpriteSheet copy_79: 8421606579967812951
+      HK SpriteSheet copy_8: -7433345476708879879
+      HK SpriteSheet copy_80: -2995943461380036506
+      HK SpriteSheet copy_81: -4127469819056599801
+      HK SpriteSheet copy_82: 2867766564441801698
+      HK SpriteSheet copy_83: 6624205524622268415
+      HK SpriteSheet copy_84: 5864574919574823907
+      HK SpriteSheet copy_85: -452399481855790001
+      HK SpriteSheet copy_86: -1599356375643351863
+      HK SpriteSheet copy_87: -3580687417909893775
+      HK SpriteSheet copy_88: 2883907952949778577
+      HK SpriteSheet copy_89: -3614451184451479362
+      HK SpriteSheet copy_9: -35169934154716943
+      HK SpriteSheet copy_90: -8146152890880972021
+      HK SpriteSheet copy_91: 7917193021241445525
+      HK SpriteSheet copy_92: 5847925314979532072
+      HK SpriteSheet copy_93: -211844213531340396
+      HK SpriteSheet copy_94: 628367367132340356
+      HK SpriteSheet copy_95: 8386793045844160095
+      HK SpriteSheet copy_96: 3686239758272830387
+      HK SpriteSheet copy_97: 8966395539990681093
+      HK SpriteSheet copy_98: 5451414193092746183
+      HK SpriteSheet copy_99: -9135816336372718189
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
